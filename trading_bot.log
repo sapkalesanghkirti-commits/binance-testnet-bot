@@ -1,0 +1,8 @@
+2026-02-20 22:23:56,834 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.005, 'positionSide': 'LONG'}
+2026-02-20 22:23:57,723 | ERROR | Order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-20 22:24:29,897 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.005, 'positionSide': 'LONG'}
+2026-02-20 22:24:30,838 | ERROR | Order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-20 22:26:27,101 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.005, 'positionSide': 'LONG'}
+2026-02-20 22:26:27,101 | ERROR | Order failed: API Secret required for private endpoints
+2026-02-20 22:26:53,226 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.005, 'positionSide': 'LONG'}
+2026-02-20 22:26:53,494 | ERROR | Order failed: APIError(code=-4061): Order's position side does not match user's setting.

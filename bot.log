@@ -1,0 +1,4 @@
+2026-02-20 21:46:53,578 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.001, None
+2026-02-20 21:46:54,490 - ERROR - Error placing order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-02-20 21:49:23,270 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.001, None
+2026-02-20 21:49:23,985 - ERROR - Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
